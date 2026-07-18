@@ -1,13 +1,13 @@
-# 🤝 Contributing to MCP for Data Professionals — Visual Edition
+# 🤝 Contributing to MCP for Data Professionals (Visual Edition)
 
-First off: **thank you!** This project gets better every time someone adds a clearer analogy or a missing concept. You don't need to be an MCP expert — if you can explain something simply, you can contribute.
+First off: **thank you!** This project gets better every time someone adds a clearer analogy or a missing concept. You don't need to be an MCP expert; if you can explain something simply, you can contribute.
 
 ---
 
 ## 🌟 Ways to contribute
 
 - **Add a new concept** (the most valuable!)
-- **Improve an existing analogy** — make it clearer or more memorable
+- **Improve an existing analogy** (make it clearer or more memorable)
 - **Fix or upgrade a diagram**
 - **Fix typos / grammar / broken links**
 - **Translate** a concept into another language
@@ -42,7 +42,7 @@ flowchart LR
 
 ## 🌍 Real-world example
 
-{One concrete paragraph — data context}
+{One concrete paragraph, data context}
 
 ## 🔗 Related
 
@@ -59,12 +59,12 @@ flowchart LR
 
 ## ✅ Style guide
 
-- **Analogy first** — the ELI5 line should be the first thing a reader sees
-- **Diagram required** — every concept needs a Mermaid flowchart
-- **Short paragraphs** — aim for 3-5 sentences max per paragraph
-- **Beginner-readable** — avoid jargon without explanation; if you must use a term, define it in one sentence
-- **Data context** — real-world examples should be grounded in Power BI, Fabric, SQL, Excel, or Python data work
-- **Consistent Mermaid colors** — use only the palette below
+- **Analogy first**: the ELI5 line should be the first thing a reader sees
+- **Diagram required**: every concept needs a Mermaid flowchart
+- **Short paragraphs**: aim for 3-5 sentences max per paragraph
+- **Beginner-readable**: avoid jargon without explanation; if you must use a term, define it in one sentence
+- **Data context**: real-world examples should be grounded in Power BI, Fabric, SQL, Excel, or Python data work
+- **Consistent Mermaid colors**: use only the palette below
 
 ### Mermaid color palette
 
@@ -97,6 +97,6 @@ Before opening a PR, confirm:
 
 Good first additions: MCP + Databricks, MCP + Snowflake, MCP + dbt, MCP + Azure Data Factory, MCP transport types (stdio vs SSE), MCP logging and observability.
 
-Open an issue if you want to claim a concept before writing it — that way two people don't work on the same thing at the same time.
+Open an issue if you want to claim a concept before writing it, that way two people don't work on the same thing at the same time.
 
 Thanks for helping data professionals connect AI to their stack. 🔌💛

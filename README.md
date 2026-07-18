@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🔌 MCP for Data Professionals — Visual Edition
+# 🔌 MCP for Data Professionals (Visual Edition)
 
-### Connect AI to your data stack — in minutes, not months.
+### Connect AI to your data stack, in minutes, not months.
 
-**Simple visuals + everyday analogies that explain MCP to everyone — whether you're a Power BI developer, a data engineer, or just curious how AI connects to real data.**
+**Simple visuals + everyday analogies that explain MCP to everyone: whether you're a Power BI developer, a data engineer, or just curious how AI connects to real data.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -13,7 +13,7 @@
 [![Concepts](https://img.shields.io/badge/concepts-16-blueviolet.svg)](#-the-concepts)
 [![Stars Welcome](https://img.shields.io/badge/⭐_stars-welcome-gold.svg)](#)
 
-*If this helps you finally connect AI to your data — drop a ⭐. It helps more people find it.*
+*If this helps you finally connect AI to your data, drop a ⭐. It helps more people find it.*
 
 </div>
 
@@ -21,14 +21,14 @@
 
 ## 🤔 Why this exists
 
-AI models are powerful — but they're blind to your data. MCP (Model Context Protocol) is the open standard that fixes that: it lets AI read your databases, query your Power BI datasets, run notebooks in Fabric, and take actions in your data tools — safely and without custom glue code.
+AI models are powerful, but they're blind to your data. MCP (Model Context Protocol) is the open standard that fixes that: it lets AI read your databases, query your Power BI datasets, run notebooks in Fabric, and take actions in your data tools, safely and without custom glue code.
 
 The problem: MCP docs are written for AI engineers, not data professionals. This repo sits in the middle. Every concept gets:
 
-- 🧒 **An "Explain Like I'm 5" analogy** — the one-liner you'll actually remember
-- 🖼️ **A simple diagram** — see how it connects, don't just read it
-- 🔧 **"How it actually works"** — for when you're ready to go deeper
-- 🌍 **A real-world example** — where it actually helps in a data context
+- 🧒 **An "Explain Like I'm 5" analogy**: the one-liner you'll actually remember
+- 🖼️ **A simple diagram**: see how it connects, don't just read it
+- 🔧 **"How it actually works"**: for when you're ready to go deeper
+- 🌍 **A real-world example**: where it actually helps in a data context
 
 No AI engineering background required. No prior protocol experience needed. Just curiosity.
 
@@ -36,12 +36,12 @@ No AI engineering background required. No prior protocol experience needed. Just
 
 ## 📚 The Concepts
 
-### 🌱 Start here — what is MCP
+### 🌱 Start here: what is MCP
 
 | # | Concept | One-liner |
 |---|---------|-----------|
 | 1 | [🔌 What is MCP](data/what-is-mcp.md) | The USB-C standard for connecting AI to tools and data. |
-| 2 | [🏗️ MCP Architecture](data/mcp-architecture.md) | Host, Client, Server — three roles, one protocol. |
+| 2 | [🏗️ MCP Architecture](data/mcp-architecture.md) | Host, Client, Server: three roles, one protocol. |
 | 3 | [🌐 MCP vs API](data/mcp-vs-api.md) | When the old way still works and when MCP is better. |
 
 ### 🧱 MCP building blocks
@@ -110,10 +110,10 @@ flowchart LR
 
 Part of the **Visual Edition** series:
 
-- 🏭 **[Microsoft Fabric — Visual Edition](https://github.com/behnia137/microsoft-fabric-visual)** — OneLake, Lakehouses, DirectLake, and more
-- 📊 **[DAX — Visual Edition](https://github.com/behnia137/dax-visual)** — Filter context, CALCULATE, time intelligence
-- 🗂️ **[Power BI Data Modeling — Visual Edition](https://github.com/behnia137/power-bi-data-modeling-visual)** — Star schemas, relationships, performance
-- 🧠 **[AI for Beginners — Visual Edition](https://github.com/behnia137/ai-for-beginners-visual)** — LLMs, RAG, embeddings, and more
+- 🏭 **[Microsoft Fabric (Visual Edition)](https://github.com/behnia137/microsoft-fabric-visual)**: OneLake, Lakehouses, DirectLake, and more
+- 📊 **[DAX (Visual Edition)](https://github.com/behnia137/dax-visual)**: Filter context, CALCULATE, time intelligence
+- 🗂️ **[Power BI Data Modeling (Visual Edition)](https://github.com/behnia137/power-bi-data-modeling-visual)**: Star schemas, relationships, performance
+- 🧠 **[AI for Beginners (Visual Edition)](https://github.com/behnia137/ai-for-beginners-visual)**: LLMs, RAG, embeddings, and more
 
 ---
 
@@ -121,7 +121,7 @@ Part of the **Visual Edition** series:
 
 Know an MCP server we're missing? Have a better analogy? **We'd love your help.**
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) — adding a concept takes about 10 minutes.
+See [CONTRIBUTING.md](CONTRIBUTING.md), adding a concept takes about 10 minutes.
 
 Good first additions: *MCP + Databricks, MCP + Snowflake, MCP + dbt, MCP + Azure Data Factory, MCP transport types (stdio vs SSE), MCP logging, MCP with LangChain, MCP with Semantic Kernel.*
 
@@ -129,7 +129,7 @@ Good first additions: *MCP + Databricks, MCP + Snowflake, MCP + dbt, MCP + Azure
 
 ## 📜 License
 
-[MIT](LICENSE) — free to use, share, remix, and teach with. Attribution appreciated.
+[MIT](LICENSE): free to use, share, remix, and teach with. Attribution appreciated.
 
 ---
 
