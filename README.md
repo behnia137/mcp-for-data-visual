@@ -133,6 +133,12 @@ Good first additions: *MCP + Databricks, MCP + Snowflake, MCP + dbt, MCP + Azure
 
 ---
 
+## 🏷️ Topics
+
+`mcp` · `model-context-protocol` · `mcp-server` · `ai` · `ai-agents` · `llm` · `powerbi` · `microsoft-fabric` · `sql` · `excel` · `python` · `data-engineering` · `data-analytics` · `diagrams` · `beginner-friendly` · `learning-resources`
+
+---
+
 <div align="center">
 
 **Made for data professionals who want AI that actually knows their data.** 🔌
