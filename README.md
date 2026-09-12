@@ -10,7 +10,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Made with Mermaid](https://img.shields.io/badge/diagrams-mermaid-ff3670.svg)](https://mermaid.js.org/)
 [![Beginner Friendly](https://img.shields.io/badge/beginner-friendly-blue.svg)](#-the-concepts)
-[![Concepts](https://img.shields.io/badge/concepts-16-blueviolet.svg)](#-the-concepts)
+[![Concepts](https://img.shields.io/badge/concepts-17-blueviolet.svg)](#-the-concepts)
 [![Stars Welcome](https://img.shields.io/badge/⭐_stars-welcome-gold.svg)](#)
 
 *If this helps you finally connect AI to your data, drop a ⭐. It helps more people find it.*
@@ -53,24 +53,25 @@ No AI engineering background required. No prior protocol experience needed. Just
 | 6 | [💬 Prompts](data/prompts.md) | Reusable prompt templates the AI can discover and invoke. |
 | 7 | [🌳 Roots](data/roots.md) | How the server tells AI which directories it can access. |
 | 8 | [🎲 Sampling](data/sampling.md) | Letting the MCP server ask the AI to generate something mid-task. |
+| 9 | [🚚 MCP Transports](data/mcp-transports.md) | stdio for local servers, Streamable HTTP for remote ones. |
 
 ### 📊 MCP for your data stack
 
 | # | Concept | One-liner |
 |---|---------|-----------|
-| 9 | [📊 MCP + Power BI](data/mcp-power-bi.md) | Let AI read your reports, datasets, and run DAX queries. |
-| 10 | [🏭 MCP + Microsoft Fabric](data/mcp-fabric.md) | AI on your lakehouse, warehouse, and pipelines. |
-| 11 | [🗄️ MCP + SQL Databases](data/mcp-sql.md) | Query any database with natural language. |
-| 12 | [📋 MCP + Excel](data/mcp-excel.md) | AI that can read and update your spreadsheets. |
-| 13 | [🐍 MCP + Python / Pandas](data/mcp-python.md) | Connect AI to your data science environment. |
+| 10 | [📊 MCP + Power BI](data/mcp-power-bi.md) | Let AI read your reports, datasets, and run DAX queries. |
+| 11 | [🏭 MCP + Microsoft Fabric](data/mcp-fabric.md) | AI on your lakehouse, warehouse, and pipelines. |
+| 12 | [🗄️ MCP + SQL Databases](data/mcp-sql.md) | Query any database with natural language. |
+| 13 | [📋 MCP + Excel](data/mcp-excel.md) | AI that can read and update your spreadsheets. |
+| 14 | [🐍 MCP + Python / Pandas](data/mcp-python.md) | Connect AI to your data science environment. |
 
 ### 🔨 Build & secure
 
 | # | Concept | One-liner |
 |---|---------|-----------|
-| 14 | [🔨 Building Your First MCP Server](data/building-mcp-server.md) | The minimum viable server in under 50 lines. |
-| 15 | [🔐 MCP Security](data/mcp-security.md) | What to expose, what to protect, how auth works. |
-| 16 | [🔍 MCP Inspector](data/mcp-inspector.md) | The debugging tool every MCP developer needs. |
+| 15 | [🔨 Building Your First MCP Server](data/building-mcp-server.md) | The minimum viable server in under 50 lines. |
+| 16 | [🔐 MCP Security](data/mcp-security.md) | What to expose, what to protect, how auth works. |
+| 17 | [🔍 MCP Inspector](data/mcp-inspector.md) | The debugging tool every MCP developer needs. |
 
 ---
 
@@ -123,7 +124,7 @@ Know an MCP server we're missing? Have a better analogy? **We'd love your help.*
 
 See [CONTRIBUTING.md](CONTRIBUTING.md), adding a concept takes about 10 minutes.
 
-Good first additions: *MCP + Databricks, MCP + Snowflake, MCP + dbt, MCP + Azure Data Factory, MCP transport types (stdio vs SSE), MCP logging, MCP with LangChain, MCP with Semantic Kernel.*
+Good first additions: *MCP + Databricks, MCP + Snowflake, MCP + dbt, MCP + Azure Data Factory, MCP logging, MCP with LangChain, MCP with Semantic Kernel.*
 
 ---
 

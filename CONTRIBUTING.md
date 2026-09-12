@@ -95,7 +95,7 @@ Before opening a PR, confirm:
 
 ## 💬 Not sure where to start?
 
-Good first additions: MCP + Databricks, MCP + Snowflake, MCP + dbt, MCP + Azure Data Factory, MCP transport types (stdio vs SSE), MCP logging and observability.
+Good first additions: MCP + Databricks, MCP + Snowflake, MCP + dbt, MCP + Azure Data Factory, MCP logging and observability.
 
 Open an issue if you want to claim a concept before writing it, that way two people don't work on the same thing at the same time.
 
